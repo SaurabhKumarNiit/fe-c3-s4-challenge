@@ -24,6 +24,21 @@
       "id": 5,
       "title": "refactor challenge",
       "content": "make design responsive and add comments in code"
+    },
+    {
+      "title": "the day",
+      "content": "Todays day is beaytiful",
+      "id": 6
+    },
+    {
+      "title": "On My way",
+      "content": "No, nobody but me can keep me safe And I'm on my way",
+      "id": 7
+    },
+    {
+      "title": "Good Day",
+      "content": "Today is nice bay",
+      "id": 8
     }
   ]
 }

@@ -1,0 +1,11 @@
+<h2 id="addnote">Add New Notes</h2>
+<form>
+    <!-- <input type="text" [(ngModel)]="note.id" placeholder="ID" > -->
+<input type="text"  name="name"   [(ngModel)]="note.title" placeholder="Title">
+<input type="text" name="content" [(ngModel)]="note.content" placeholder="Content"  >
+ <!-- <textarea rows="5" cols="20" placeholder="Content"    #content>
+   
+    </textarea> -->
+    
+<button (click)="saveNotes()">Save</button>
+</form>
